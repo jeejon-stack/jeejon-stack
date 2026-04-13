@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Behavior Analysis of "Live" Ransomware](https://github.com/jeejon-stack/Behavior-Analysis-of-Live-Ransomware)
-  - [Network Attack Detection & Reporting (SSH Honeypot Lab)](https://github.com/jeejon-stack/Network-Attack-Detection-&-Reporting-SSH-Honeypot-Lab)
-  - [PrestaShop Deployment on AWS Free Tier](https://github.com/jeejon-stack/PrestaShop-Deployment-on-AWS-Free-Tier
+  - [Network Attack Detection & Reporting (SSH Honeypot Lab)](https://github.com/jeejon-stack/cowrie)
+  - [PrestaShop Deployment on AWS Free Tier](https://github.com/jeejon-stack/PrestaShop-Deployment-on-AWS-Free-Tier)
 
 
 
