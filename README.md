@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Behavior Analysis of "Live" Ransomware](https://github.com/jeejon-stack/Behavior-Analysis-of-Live-Ransomware)
-  - [Enterprise Security Monitoring Lab DVWA WAF Honeypot ELK](https://github.com/jeejon-stack/Enterprise-Security-Monitoring-Lab-DVWA-WAF-Honeypot-ELK)
+  - [PrestaShop Deployment on AWS Free Tier](https://github.com/jeejon-stack/PrestaShop-Deployment-on-AWS-Free-Tier)
 
 
 
@@ -25,7 +25,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/johnson-oni-0144b7158
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
