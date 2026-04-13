@@ -2,7 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Behavior Analysis of "Live" Ransomware](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Behavior Analysis of "Live" Ransomware](https://github.com/jeejon-stack/Behavior-Analysis-of-Live-Ransomware)
+  - [Enterprise Security Monitoring Lab DVWA WAF Honeypot ELK](https://github.com/jeejon-stack/Enterprise-Security-Monitoring-Lab-DVWA-WAF-Honeypot-ELK)
+
 
 
 <h2>📺 Popular YouTube Videos</h2>
