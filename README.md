@@ -5,7 +5,7 @@
   - [Behavior Analysis of "Live" Ransomware](https://github.com/jeejon-stack/Behavior-Analysis-of-Live-Ransomware)
   - [Network Attack Detection & Reporting (SSH Honeypot Lab)](https://github.com/jeejon-stack/cowrie)
   - [PrestaShop Deployment on AWS Free Tier](https://github.com/jeejon-stack/PrestaShop-Deployment-on-AWS-Free-Tier)
-  - [Enterprise Security Monitoring Lab (DVWA + WAF + Honeypot + ELK)](https://github.com/jeejon-stack/PrestaShop-Deployment-on-AWS-Free-Tier)
+  - [Enterprise Security Monitoring Lab (DVWA + WAF + Honeypot + ELK)](https://github.com/jeejon-stack/Enterprise-Security-Monitoring-Lab-DVWA-WAF-Honeypot-ELK-)
 
 
 
