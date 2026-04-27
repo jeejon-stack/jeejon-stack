@@ -31,7 +31,7 @@
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/jeejon_cyber/
 [linkedin]: https://www.linkedin.com/in/johnson-oni-0144b7158
-[facebook]: https://facebook.com/
+[facebook]: https://web.facebook.com/profile.php?id=61566120130174
 [notion]: https://ripple-buckaroo-6dd.notion.site/Johnson-Oni-SOC-Analyst-Portfolio-30411992bd7e80c0a793e1484243fb28?source=copy_link
 
 <!--
