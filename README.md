@@ -27,7 +27,7 @@
 [<img align="left" alt="JoshMadakor | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="JoshMadakor | Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/notion.svg" />][notion]
 
-[twitter]: https://twitter.com/joshmadakor
+[twitter]: https://x.com/olajidejohnson
 [youtube]: https://www.youtube.com/@jeejon_cyber
 [instagram]: https://www.instagram.com/jeejon_cyber/
 [linkedin]: https://www.linkedin.com/in/johnson-oni-0144b7158
