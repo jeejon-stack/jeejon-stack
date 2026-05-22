@@ -7,8 +7,7 @@
   - [PrestaShop Deployment on AWS Free Tier](https://github.com/jeejon-stack/PrestaShop-Deployment-on-AWS-Free-Tier)
   - [Enterprise Security Monitoring Lab (DVWA + WAF + Honeypot + ELK)](https://github.com/jeejon-stack/Enterprise-Security-Monitoring-Lab-DVWA-WAF-Honeypot-ELK-)
   - [Post-Quantum-Cryptography-PQC-secret-rotation-engine-using-HashiCorp-Vault](https://github.com/jeejon-stack/Design-and-implement-a-Post-Quantum-Cryptography-PQC-secret-rotation-engine-using-HashiCorp-Vault)
-  - [Deep-Network-Protocol-Penetration-Testing-Cryptographic-Transport-Hardening](https://github.com/jeejon-stack/Deep-Network-Protocol-Penetration-Testing-Cryptographic-Transport-Hardening
-)
+  - [Deep-Network-Protocol-Penetration-Testing-Cryptographic-Transport-Hardening](https://github.com/jeejon-stack/Deep-Network-Protocol-Penetration-Testing-Cryptographic-Transport-Hardening)
 
 
 
