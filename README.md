@@ -6,13 +6,13 @@
   - [Network Attack Detection & Reporting (SSH Honeypot Lab)](https://github.com/jeejon-stack/cowrie)
   - [PrestaShop Deployment on AWS Free Tier](https://github.com/jeejon-stack/PrestaShop-Deployment-on-AWS-Free-Tier)
   - [Enterprise Security Monitoring Lab (DVWA + WAF + Honeypot + ELK)](https://github.com/jeejon-stack/Enterprise-Security-Monitoring-Lab-DVWA-WAF-Honeypot-ELK-)
-  - [Post-Quantum-Cryptography-PQC-secret-rotation-engine-using-HashiCorp-Vault](https://github.com/jeejon-stack/Design-and-implement-a-Post-Quantum-Cryptography-PQC-secret-rotation-engine-using-HashiCorp-Vault)
   - [Deep-Network-Protocol-Penetration-Testing-Cryptographic-Transport-Hardening](https://github.com/jeejon-stack/Deep-Network-Protocol-Penetration-Testing-Cryptographic-Transport-Hardening)
   - [End-to-End-Encryption-E2EE-Research-Project](https://github.com/jeejon-stack/End-to-End-Encryption-E2EE-Research-Project)
   - [E2EE-Expert-Audit-Zero-Knowledge-Verification-MITM-Simulation-The-Ratchet](https://github.com/jeejon-stack/-E2EE-Expert-Audit-Zero-Knowledge-Verification-MITM-Simulation-The-Ratchet)
 
   
 <h2>👨‍💻 Post Quantum Cryptography Project</h2>
+  - [Post-Quantum-Cryptography-PQC-secret-rotation-engine-using-HashiCorp-Vault](https://github.com/jeejon-stack/Design-and-implement-a-Post-Quantum-Cryptography-PQC-secret-rotation-engine-using-HashiCorp-Vault)
 
 <h2>📺 Popular YouTube Videos</h2>
 
