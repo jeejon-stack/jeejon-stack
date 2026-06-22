@@ -15,6 +15,7 @@
   - [Deep-Network-Protocol-Penetration-Testing-Cryptographic-Transport-Hardening](https://github.com/jeejon-stack/Deep-Network-Protocol-Penetration-Testing-Cryptographic-Transport-Hardening)
   - [Zero-Trust-Hybrid-PQC-mTLS-Mesh](https://github.com/jeejon-stack/Zero-Trust-Hybrid-PQC-mTLS-Mesh)
   - [Hybrid-Identity-Authentication](https://github.com/jeejon-stack/Phase-2-Hybrid-Identity-Authentication)
+  - [Automated-PQC-Certificate-Lifecycle-Engine](https://github.com/jeejon-stack/Automated-PQC-Certificate-Lifecycle-Engine)
     
   
 <h2>📺 Popular YouTube Videos</h2>
