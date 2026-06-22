@@ -1,4 +1,4 @@
-<h1>Hi, I'm Johnson Olajiide! <br/><a href="https://github.com/jeejon-stack">SOC Analyst</a>, <a href="https://www.linkedin.com/in/johnson-oni-0144b7158/">Incident Responder,  Founder Kyvronix</a> 
+<h1>Hi, I'm Johnson Olajiide! <br/><a href="https://github.com/jeejon-stack">SOC Analyst</a>, <a href="https://www.linkedin.com/in/johnson-oni-0144b7158/">Incident Responder,  Founder at Kyvronix</a>.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
