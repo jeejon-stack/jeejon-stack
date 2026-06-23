@@ -16,6 +16,7 @@
   - [Zero-Trust-Hybrid-PQC-mTLS-Mesh](https://github.com/jeejon-stack/Zero-Trust-Hybrid-PQC-mTLS-Mesh)
   - [Hybrid-Identity-Authentication](https://github.com/jeejon-stack/Phase-2-Hybrid-Identity-Authentication)
   - [Automated-PQC-Certificate-Lifecycle-Engine](https://github.com/jeejon-stack/Automated-PQC-Certificate-Lifecycle-Engine)
+  - [Project-Quantum-CA-Phase-3-True-ML-DSA-65-Engine](https://github.com/jeejon-stack/Project-Quantum-CA-Phase-3-True-ML-DSA-65-Engine)
     
   
 <h2>📺 Popular YouTube Videos</h2>
