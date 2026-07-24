@@ -19,6 +19,7 @@
   - [Project-Quantum-CA-Phase-3-True-ML-DSA-65-Engine](https://github.com/jeejon-stack/Project-Quantum-CA-Phase-3-True-ML-DSA-65-Engine)
 
 <h2>👨‍💻 Kyvronix Project</h2>
+  - [OSI-7-Layer-Security-Assessment-Methodology](https://github.com/jeejon-stack/OSI-7-Layer-Security-Assessment-Methodology)
     
   
 <h2>📺 Popular YouTube Videos</h2>
