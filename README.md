@@ -18,6 +18,8 @@
   - [Automated-PQC-Certificate-Lifecycle-Engine](https://github.com/jeejon-stack/Automated-PQC-Certificate-Lifecycle-Engine)
   - [Project-Quantum-CA-Phase-3-True-ML-DSA-65-Engine](https://github.com/jeejon-stack/Project-Quantum-CA-Phase-3-True-ML-DSA-65-Engine)
 
+<h2>👨‍💻 Aegis-shield (Extended Berkeley Packet Filter) Project</h2>
+
 <h2>👨‍💻 Kyvronix Project</h2>
 
   - [OSI-7-Layer-Security-Assessment-Methodology](https://github.com/jeejon-stack/OSI-7-Layer-Security-Assessment-Methodology).
